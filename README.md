@@ -1,8 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://example.com/todolist_logo.png" alt="To-Do List" width="200"></a>
-  <br>
+  
   Desarrollo de una Lista de Tareas (To-Do List)
   <br>
 </h1>
@@ -18,7 +17,6 @@
   <a href="#licencia">Licencia</a>
 </p>
 
-![screenshot](https://example.com/todolist_screenshot.png)
 
 ## Características Principales
 
@@ -157,10 +155,10 @@ WHERE ID = 1;
 
 ---
 
-### Desarrollado por:  
+### Desarrollado por:  COLOCAR USUARIO DE CADA UNO
 > **Carlos Ventura** • [GitHub](https://github.com/carlosventura)  
 > **Daniela Bravo** • [GitHub](https://github.com/danielabravo)  
-> **Roxana Marchetto** • [GitHub](https://github.com/roxanamarchetto)  
+> **Roxana Marchetto** • [GitHub](https://github.com/roxymarchetto)  
 > **Yesica Sofra** • [GitHub](https://github.com/yesicasofra)
 
 
