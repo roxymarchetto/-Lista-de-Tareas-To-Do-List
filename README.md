@@ -157,7 +157,7 @@ WHERE ID = 1;
 
 ### Desarrollado por:  COLOCAR USUARIO DE CADA UNO
 > **Carlos Ventura** • [GitHub](https://github.com/carlosventura)  
-> **Daniela Bravo** • [GitHub](https://github.com/danielabravo)  
+> **Daniela Bravo** • [GitHub](https://github.com/danib322)  
 > **Roxana Marchetto** • [GitHub](https://github.com/roxymarchetto)  
 > **Yesica Sofra** • [GitHub](https://github.com/yesicasofra)
 
