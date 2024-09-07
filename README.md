@@ -159,7 +159,7 @@ WHERE ID = 1;
 > **Carlos Ventura** • [GitHub](https://github.com/Lion447)  
 > **Daniela Bravo** • [GitHub](https://github.com/danielabravo)  
 > **Roxana Marchetto** • [GitHub](https://github.com/roxymarchetto)  
-> **Yesica Sofra** • [GitHub](https://github.com/yesicasofra)
+> **Yesica Sofra** • [GitHub](https://github.com/Yesica1983)
 
 
 ### Explicación Adicional:
