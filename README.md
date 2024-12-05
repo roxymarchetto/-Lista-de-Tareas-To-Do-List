@@ -56,7 +56,7 @@ El modelo entidad-relación (ER) para esta aplicación es sencillo pero efectivo
 - **Usuario**: 
   - `ID` (Primary Key)
   - `Nombre`
-  - `Correo Electrónico`
+  - `Email`
   - `Contraseña` (almacenada de forma segura, idealmente como hash)
   
 - **Tarea**: 
@@ -84,7 +84,7 @@ USE ToDoListDB;
 CREATE TABLE Usuario (
     ID INT AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(100) NOT NULL,
-    Correo_Electronico VARCHAR(100) NOT NULL UNIQUE,
+    Email VARCHAR(100) NOT NULL UNIQUE,
     Contraseña VARCHAR(255) NOT NULL -- Asegúrate de usar un hash seguro para las contraseñas
 );
 ```
@@ -106,7 +106,7 @@ CREATE TABLE Tarea (
 
 ### 3.1 Crear un nuevo usuario:
 ```sql
-INSERT INTO Usuario (Nombre, Correo_Electronico, Contraseña)
+INSERT INTO Usuario (Nombre, Email, Contraseña)
 VALUES ('Juan Pérez', 'juan@example.com', 'hashed_password');
 ```
 
